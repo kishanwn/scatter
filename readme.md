@@ -8,5 +8,5 @@ python data_builder.py
 
 ## Train scattering operator
 
-python 
+python train_scatter_new2.py
 
